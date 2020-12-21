@@ -1,2 +1,2 @@
 # todo-list-eth
-A Blockchain application for ToDo list management using Ganache and Truffle framework.
+A Blockchain application running on Ethereum for To-Do list management using Ganache and Truffle framework.
