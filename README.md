@@ -4,3 +4,6 @@ A Blockchain application running on Ethereum for To-Do list management using Gan
 ## Languages used:
 * JavaScript
 * Solidity
+
+## Server
+* Lite-server
